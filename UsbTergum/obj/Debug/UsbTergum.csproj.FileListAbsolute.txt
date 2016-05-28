@@ -1,0 +1,33 @@
+C:\Users\Loki\documents\visual studio 2013\Projects\UsbTergum\UsbTergum\bin\Debug\UsbTergum.exe
+C:\Users\Loki\documents\visual studio 2013\Projects\UsbTergum\UsbTergum\bin\Debug\UsbTergum.pdb
+C:\Users\Loki\documents\visual studio 2013\Projects\UsbTergum\UsbTergum\obj\Debug\UsbTergum.Form1.resources
+C:\Users\Loki\documents\visual studio 2013\Projects\UsbTergum\UsbTergum\obj\Debug\UsbTergum.Properties.Resources.resources
+C:\Users\Loki\documents\visual studio 2013\Projects\UsbTergum\UsbTergum\obj\Debug\UsbTergum.csproj.GenerateResource.Cache
+C:\Users\Loki\documents\visual studio 2013\Projects\UsbTergum\UsbTergum\obj\Debug\UsbTergum.exe
+C:\Users\Loki\documents\visual studio 2013\Projects\UsbTergum\UsbTergum\obj\Debug\UsbTergum.pdb
+C:\Users\Loki\documents\visual studio 2013\Projects\UsbTergum\UsbTergum\bin\Debug\af\UsbTergum.resources.dll
+C:\Users\Loki\documents\visual studio 2013\Projects\UsbTergum\UsbTergum\obj\Debug\UsbTergum.Form1.af.resources
+C:\Users\Loki\documents\visual studio 2013\Projects\UsbTergum\UsbTergum\obj\Debug\af\UsbTergum.resources.dll
+C:\Users\Loki\documents\visual studio 2013\Projects\UsbTergum\UsbTergum\obj\Debug\UsbTergum.csprojResolveAssemblyReference.cache
+C:\Users\Loki\documents\visual studio 2013\Projects\UsbTergum\UsbTergum\obj\Debug\Dolinay.DetectorForm.resources
+C:\Users\derp\Desktop\UsbTergum\UsbTergum\obj\Debug\UsbTergum.exe
+C:\Users\derp\Desktop\UsbTergum\UsbTergum\obj\Debug\UsbTergum.pdb
+C:\Users\derp\Desktop\UsbTergum\UsbTergum\bin\Debug\UsbTergum.exe
+C:\Users\derp\Desktop\UsbTergum\UsbTergum\bin\Debug\UsbTergum.pdb
+C:\Users\derp\Desktop\UsbTergum\UsbTergum\bin\Debug\af\UsbTergum.resources.dll
+C:\Users\derp\Desktop\UsbTergum\UsbTergum\obj\Debug\Dolinay.DetectorForm.resources
+C:\Users\derp\Desktop\UsbTergum\UsbTergum\obj\Debug\UsbTergum.Form1.resources
+C:\Users\derp\Desktop\UsbTergum\UsbTergum\obj\Debug\UsbTergum.Form1.af.resources
+C:\Users\derp\Desktop\UsbTergum\UsbTergum\obj\Debug\UsbTergum.csproj.GenerateResource.Cache
+C:\Users\derp\Desktop\UsbTergum\UsbTergum\obj\Debug\af\UsbTergum.resources.dll
+C:\Users\derp\Desktop\UsbTergum\UsbTergum\bin\Debug\usb_stick.ico
+C:\Users\derp\Desktop\UsbTergum\UsbTergum\obj\Debug\UsbTergum.Properties.Resources.resources
+C:\Users\derp\Desktop\UsbTergum\UsbTergum\bin\Debug\UsbTergum.exe.config
+C:\Users\derp\Desktop\UsbTergum\UsbTergum\obj\Debug\UsbTergum.FileCopyDisplay.resources
+C:\Users\derp\Desktop\UsbTergum\UsbTergum\obj\Debug\UsbTergum.csprojResolveAssemblyReference.cache
+C:\Users\KhattaK\Desktop\UsbTergum VP project\UsbTergum\UsbTergum\bin\Debug\UsbTergum.exe.config
+C:\Users\KhattaK\Desktop\UsbTergum VP project\UsbTergum\UsbTergum\obj\Debug\UsbTergum.exe
+C:\Users\KhattaK\Desktop\UsbTergum VP project\UsbTergum\UsbTergum\obj\Debug\UsbTergum.pdb
+C:\Users\KhattaK\Desktop\github projects\UsbTergum VP project\UsbTergum\UsbTergum\bin\Debug\UsbTergum.exe.config
+C:\Users\KhattaK\Desktop\github projects\UsbTergum VP project\UsbTergum\UsbTergum\obj\Debug\UsbTergum.exe
+C:\Users\KhattaK\Desktop\github projects\UsbTergum VP project\UsbTergum\UsbTergum\obj\Debug\UsbTergum.pdb
